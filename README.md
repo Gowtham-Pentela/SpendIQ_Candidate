@@ -314,5 +314,4 @@ SpendIQ demonstrates how to build a **reliable, explainable AI system** that com
 
 without relying on black-box reasoning.
 
-```
-
+---
